@@ -1,5 +1,9 @@
 This is a simple front-end app that utilised Wikipedia's API to pull search results about any topic the user is interested about. It is built in TypeScript with [Next.js](https://nextjs.org/), and [TailwindCSS](https://tailwindcss.com/). It has both Static and Server Side Rendered Components.
 
+## Live Demo
+
+Click [this Link](https://wiki-app-two.vercel.app/) to try the Wiki App yourself!
+
 ## Getting Started
 
 First, run the development server:
